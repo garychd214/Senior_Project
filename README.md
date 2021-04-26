@@ -20,7 +20,7 @@ We’re going to show this loop by taking a very small and very cheap computer, 
 Doing something such as showing how easily almost anyone can become a digital threat might not seem like a great idea at first. However, in the actions of doing so, we’re also going to show how the average person can protect themselves from such actions. After all, the best way to protect yourself in a fight is to first learn how to fight.<br />
 ##
 ### Those Involved
-**Team Members:** [Mitchell "Mitch" Wommack](https://github.com/dbmitch84/Sr-Project), [Jason Nguyen](https://github.com/nguyejas1/Senior-Project), [Joshua Gilbert](https://github.com/Joshua-Gilbert/Sr-Project), & [Gary Choi](https://github.com/garychd214/Senior_Project.git)<br />
+**Team Members:** [Gary Choi](https://github.com/garychd214/Senior_Project.git), [Mitchell "Mitch" Wommack](https://github.com/dbmitch84/Sr-Project), [Jason Nguyen](https://github.com/nguyejas1/Senior-Project), [Joshua Gilbert](https://github.com/Joshua-Gilbert/Sr-Project)<br />
 **Faculty Professor:** Dr.Harold Nelson<br />
 **Sponsor:** Peter Truax<br />
 
